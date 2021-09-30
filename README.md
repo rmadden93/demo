@@ -2,6 +2,6 @@
 
 This is a simple readme file. 
 
-Hello there
+## Hello there
 
-I hope this is not a problem
+Just a small change
